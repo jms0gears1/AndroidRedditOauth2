@@ -1,7 +1,7 @@
 package com.example.cash1.myapplication;
 
 /**
- * Created by cash 1 on 12/27/2015.
+ * Created by jmsGears1 on 12/27/2015.
  */
 public class PostData {
     String grantType;
